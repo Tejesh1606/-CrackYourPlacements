@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/majority-element/description/
 import java.util.Arrays;
 class Solution {
     public int majorityElement(int[] nums) {
